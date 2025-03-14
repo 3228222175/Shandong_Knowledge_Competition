@@ -1,0 +1,2 @@
+# Shandong_Knowledge_Competition
+山东知识竞赛
