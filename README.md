@@ -1,2 +1,4 @@
 # Shandong_Knowledge_Competition
 山东知识竞赛
+登录已实现
+获取试卷和提交试卷用demo.js里的方法加解密即可
